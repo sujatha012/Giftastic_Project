@@ -1,0 +1,16 @@
+.btn-primary {
+    margin: 2px;
+}
+
+.item {
+    float: left;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+form {
+    text-align: right;
+    width: 35%;
+    margin: auto;
+    margin-top: 3%;
+}
