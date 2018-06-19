@@ -2,7 +2,7 @@
 
 var Gift = {};
 var birds = ["Sparrow", "Parrot", "Dove", "Pigeon", "Goose", "Falcon", "Hummingbird", "Penquin", "Cuckoo",
-    "Kiwi", "Swallow"];
+    "Kiwi", "Peacock", "Hen", "Chicken"];
 Gift = ({
 
 
